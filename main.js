@@ -7,10 +7,3 @@ client.events = new Discord.Collection();
     require(`./handlers/${handler}`)(client, Discord)
 })
 client.login("INSERTTOKENHERE");
-console.log("███    ██ ██    ██ ██   ██ ███████ ██████      ██████   ██████  ████████ 
-████   ██ ██    ██ ██  ██  ██      ██   ██     ██   ██ ██    ██    ██    
-██ ██  ██ ██    ██ █████   █████   ██████      ██████  ██    ██    ██    
-██  ██ ██ ██    ██ ██  ██  ██      ██   ██     ██   ██ ██    ██    ██    
-██   ████  ██████  ██   ██ ███████ ██   ██     ██████   ██████     ██    
-                                                                         
-                                                                         ")
