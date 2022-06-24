@@ -1,15 +1,25 @@
 {
-  "name": "nukerbot",
+  "name": "NB",
   "version": "1.0.0",
-  "description": "nukerbot",
+  "description": "Nuker Bot\r -----------\r Get Nuker Bot Now",
   "main": "main.js",
+  "dependencies": {
+    "discord.js-12": "^1.0.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnoWolf7671/NB.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "ms": "^2.1.2",
-  }
+  "bugs": {
+    "url": "https://github.com/TechnoWolf7671/NB/issues"
+  },
+  "homepage": "https://github.com/TechnoWolf7671/NB#readme"
 }
