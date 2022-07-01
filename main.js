@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const Discord = require("discord.js-12");
 const client = new Discord.Client({ partials: ["MESSAGE", "CHANNEL", "REACTION"] });
 const fs = require('fs');
 client.commands = new Discord.Collection();
